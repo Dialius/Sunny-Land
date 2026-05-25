@@ -1,0 +1,83 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/screens.rpy", line 271, in execute
+    screen load:
+  File "game/screens.rpy", line 271, in execute
+    screen load:
+  File "game/screens.rpy", line 280, in execute
+    imagemap:
+  File "game/screens.rpy", line 286, in execute
+    use file_picker
+  File "game/screens.rpy", line 291, in execute
+    screen file_picker:
+  File "game/screens.rpy", line 291, in execute
+    screen file_picker:
+  File "game/screens.rpy", line 295, in execute
+    hotspot (70, 96, 105, 42) clicked FileAction(1):
+  File "game/screens.rpy", line 296, in execute
+    use load_save_slot(number=1)
+  File "game/screens.rpy", line 332, in execute
+    screen load_save_slot:
+  File "game/screens.rpy", line 332, in execute
+    screen load_save_slot:
+  File "game/screens.rpy", line 334, in execute
+    $ file_text = "% 2s. %s\n%s" % (
+  File "game/screens.rpy", line 335, in <module>
+    FileSlotName(slot, 9),
+NameError: name 'slot' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/_layout/screen_main_menu.rpym", line 28, in script
+    $ renpy.show_screen("main_menu")
+  File "/Applications/renpy/ast.py", line 814, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/Applications/renpy/python.py", line 1719, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "renpy/common/_layout/screen_main_menu.rpym", line 30, in <module>
+    
+  File "/Applications/renpy/ui.py", line 285, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/Applications/renpy/display/core.py", line 2538, in interact
+    scene_lists.replace_transient()
+  File "/Applications/renpy/display/core.py", line 822, in replace_transient
+    self.remove(layer, tag)
+  File "/Applications/renpy/display/core.py", line 1107, in remove
+    self.hide_or_replace(layer, remove_index, "hide")
+  File "/Applications/renpy/display/core.py", line 1031, in hide_or_replace
+    d = oldsle.displayable._hide(now - st, now - at, prefix)
+  File "/Applications/renpy/display/screen.py", line 443, in _hide
+    self.update()
+  File "/Applications/renpy/display/screen.py", line 578, in update
+    self.screen.function(**self.scope)
+  File "game/screens.rpy", line 271, in execute
+    screen load:
+  File "game/screens.rpy", line 271, in execute
+    screen load:
+  File "game/screens.rpy", line 280, in execute
+    imagemap:
+  File "game/screens.rpy", line 286, in execute
+    use file_picker
+  File "game/screens.rpy", line 291, in execute
+    screen file_picker:
+  File "game/screens.rpy", line 291, in execute
+    screen file_picker:
+  File "game/screens.rpy", line 295, in execute
+    hotspot (70, 96, 105, 42) clicked FileAction(1):
+  File "game/screens.rpy", line 296, in execute
+    use load_save_slot(number=1)
+  File "game/screens.rpy", line 332, in execute
+    screen load_save_slot:
+  File "game/screens.rpy", line 332, in execute
+    screen load_save_slot:
+  File "game/screens.rpy", line 334, in execute
+    $ file_text = "% 2s. %s\n%s" % (
+  File "game/screens.rpy", line 335, in <module>
+    FileSlotName(slot, 9),
+NameError: name 'slot' is not defined
+
+Darwin-15.0.0-x86_64-i386-64bit
+Ren'Py 6.99.12.4.2187
+sasquatchiis_pixel_parchment_ui 0.0

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 332ffe4410de0494eaf4ea854ccfbe3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3715517586556846569
+    second: yesno-overwrite_0
+  - first:
+      213: -555446123989012238
+    second: yesno-overwrite_1
+  - first:
+      213: 6205530442219985287
+    second: yesno-overwrite_2
+  - first:
+      213: -5949375198472238285
+    second: yesno-overwrite_3
+  - first:
+      213: -8481285084612500811
+    second: yesno-overwrite_4
+  - first:
+      213: -3571318372857956834
+    second: yesno-overwrite_5
+  - first:
+      213: 3443194150917986697
+    second: yesno-overwrite_6
+  - first:
+      213: -3382796383355429148
+    second: yesno-overwrite_7
+  - first:
+      213: -7872561738613010873
+    second: yesno-overwrite_8
+  - first:
+      213: 5270564022351392965
+    second: yesno-overwrite_9
+  - first:
+      213: 4174726391552036287
+    second: yesno-overwrite_10
+  - first:
+      213: 5087939363707003677
+    second: yesno-overwrite_11
+  - first:
+      213: -4303156501118769403
+    second: yesno-overwrite_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yesno-overwrite_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 162
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1007f2f8b209330800000000000000
+      internalID: 3715517586556846569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 168
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f074cf61b8aa48f0800000000000000
+      internalID: -555446123989012238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78915631f097e1650800000000000000
+      internalID: 6205530442219985287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0b8337c29f6da0800000000000000
+      internalID: -5949375198472238285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 168
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b26adcb62c6c4a80800000000000000
+      internalID: -8481285084612500811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16b9fd8cd0207ec0800000000000000
+      internalID: -3571318372857956834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 168
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895b2266dea8cf20800000000000000
+      internalID: 3443194150917986697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 166
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee9f96bc94ed01d0800000000000000
+      internalID: -3382796383355429148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 168
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ec3a13fca0fb290800000000000000
+      internalID: -7872561738613010873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0753ebd0ec42940800000000000000
+      internalID: 5270564022351392965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 168
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd48e2d88b9fe930800000000000000
+      internalID: 4174726391552036287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 168
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ab7ce4edfb9640800000000000000
+      internalID: 5087939363707003677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yesno-overwrite_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 168
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50727e916fd1844c0800000000000000
+      internalID: -4303156501118769403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      yesno-overwrite_0: 3715517586556846569
+      yesno-overwrite_1: -555446123989012238
+      yesno-overwrite_10: 4174726391552036287
+      yesno-overwrite_11: 5087939363707003677
+      yesno-overwrite_12: -4303156501118769403
+      yesno-overwrite_2: 6205530442219985287
+      yesno-overwrite_3: -5949375198472238285
+      yesno-overwrite_4: -8481285084612500811
+      yesno-overwrite_5: -3571318372857956834
+      yesno-overwrite_6: 3443194150917986697
+      yesno-overwrite_7: -3382796383355429148
+      yesno-overwrite_8: -7872561738613010873
+      yesno-overwrite_9: 5270564022351392965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
