@@ -18,10 +18,10 @@
 <div align="center">
 
 ### 🎮 Gameplay
-![Gameplay Screenshot](img-game/image.png)
+![Main Menu Screenshot](img-game/image.png)
 
 ### 🗺️ Level Selection
-![Level Selection](img-game/image-2.png)
+![Gameplay Screenshot](img-game/image-2.png)
 
 </div>
 
