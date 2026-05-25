@@ -37,7 +37,7 @@
 
 | Fitur | Deskripsi |
 |---|---|
-| 🎮 **Multi-Level** | 6 level yang dapat dimainkan secara berurutan |
+| 🎮 **Multi-Level** | 3 level yang dapat dimainkan secara berurutan |
 | 🔒 **Level Lock System** | Level terkunci hingga level sebelumnya diselesaikan |
 | 💎 **Collectibles** | Kumpulkan Gem dan Cherry di setiap level |
 | ❤️ **Health System** | Sistem nyawa berbasis hati (Heart Health System) |
@@ -168,9 +168,7 @@ Pastikan scene di **File → Build Settings** sudah dalam urutan berikut:
 | 1 | Level1 |
 | 2 | Level2 |
 | 3 | Level3 |
-| 4 | Level4 |
-| 5 | Level5 |
-| 6 | Level6 |
+
 
 ---
 
